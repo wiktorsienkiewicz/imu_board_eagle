@@ -1,3 +1,4 @@
 *.s#*
 *.b#*
-
+*.zip
+/eagle.epf
